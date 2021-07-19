@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,aACE,qBAAsB,CACvB,kBAGC,UAAW","file":"main.5041ef63.chunk.css","sourcesContent":[".list-inline {\n  background-color: #eee;\n}\n\n.list-inline-item {\n  color: #333;\n}\n"]}
